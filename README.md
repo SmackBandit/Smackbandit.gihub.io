@@ -1,2 +1,2 @@
-# Smackbandit.gihub.io
+# Smackbandit.github.io
 Project website
